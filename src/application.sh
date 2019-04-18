@@ -1,5 +1,6 @@
 ###application.sh - 201x Phillip  Redfern###
-echo "Copyright company - 201x"
-Build : 10:00
+version = "2"
+Build_hour="11:00"
 
-echo "version 1.1"
+echo "Build ${uild_hour}"
+echo "version ${version}"
